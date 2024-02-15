@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @IAmTwigothy.
-- 👀 I’m interested in stuff.
-- 🌱 I’m currently learning stuff.
-- 💞️ I’m looking to collaborate on just one thing (not stuff which is plural).
-- 📫 Just DM me on Discord if you need to talk.
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: Banana
+Counterpoint: no.
